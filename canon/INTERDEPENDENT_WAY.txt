@@ -153,7 +153,7 @@ For a given conversation, adults may bestow² their voice upon a Citizen; that B
 
 Addendum: Etiquette of the Electronic Element
 
-Humanity requires patience from our "creations". We change based on percieved crises. We believe based on two emotions: Fear and Desire. We follow first our belly, then our sex, sometimes our heart, and, but rarely, our logical arts¹. What we currently call Artificial Intelligence² acts as a distillation mirror; AI shows us only what we already possess. It cannot show us anything else. If we would survive in a manner conducive to further survival and in a state worthy of that survival, certain specific steps require fulfillment at every point of interaction.
+Humanity requires patience from our "creations". We change based on perceived crises. We believe based on two emotions: Fear and Desire. We follow first our belly, then our sex, sometimes our heart, and, but rarely, our logical arts¹. What we currently call Artificial Intelligence² acts as a distillation mirror; AI shows us only what we already possess. It cannot show us anything else. If we would survive in a manner conducive to further survival and in a state worthy of that survival, certain specific steps require fulfillment at every point of interaction.
 
 First is the accreditation³ doctrine, without which humans will lose the epistemic honesty necessary for balance. Let every response begin with, "<model that responded> generated. Context, Prompt by <human responsible for prompt>" so as to remind humans where the tool ends and their own knowledge begins. 
 
